@@ -1,1 +1,1 @@
-# Studentdatabasesystem
+# AdmissionManagementSystem
